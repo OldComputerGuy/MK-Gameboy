@@ -1,5 +1,5 @@
 # MK-Gameboy
-Complete assembly language source code for a famous fighting game on the Gameboy
+Complete original assembly language source code for a famous fighting game on the Gameboy
 
 The source code I provide must not be used for commercial purposes, it is for educational purposes only, this can be considered fair use.
 I would also ask you not to redistribute any of the code found here.
